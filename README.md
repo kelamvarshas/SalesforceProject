@@ -82,7 +82,7 @@ The documentation demonstrates the complete CRM workflow:
 ##  Author
 
 **Kelam Varsha**
-Department of Computer Science and Engineering
-RMK Engineering College
+**Department of Computer Science and Engineering**
+**RMK Engineering College**
 
 **Year:** 2026
